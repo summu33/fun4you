@@ -1,0 +1,14 @@
+h1 span{ 
+  color: snow;
+  text-align: left;
+  background-image: url(h1.jpeg);
+  display: table;
+  margin: 0px 0px auto;
+  padding: 5px;
+  font-size: 50px;
+}
+span.sp1{
+  font-size: 20px;
+  margin-left: 20px;
+  font-weight: lighter;
+}
