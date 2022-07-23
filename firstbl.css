@@ -1,0 +1,49 @@
+body{
+	/* Image Location */
+	background:url(blog.jpg);
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#head{
+	display: block;
+  padding: 5px 5px;
+  margin-top: 10%;
+  text-align: center;
+  color: black;
+  text-shadow: 5px 5px 5px lightskyblue;
+  font-family: Cinzel,serif;
+  font-size: 4.5vw;
+  font-weight: bold;
+
+}
+#head:hover{
+	/*margin-top: 20%;*/
+	color: #1e1e2a;
+	text-shadow: 5px 5px 5px ghostwhite;
+}
+p{
+	font-family: 'Tangerine', serif;
+  font-size: 3vw;
+	font-weight: bolder;
+	text-shadow: 2px 2px 7px lightseagreen;
+  text-indent: 10%;
+}
+
+.sec2{
+	margin: 3%;
+	font-family: "Sofia", sans-serif;
+	font-size: 2.1vw;
+	padding: 15px;
+	text-align:center;
+}
+ a{
+ 	padding: 1vw 5vw;
+	text-align: center;
+	color: #ffffff;
+	text-decoration-skip-ink: auto;
+	border: 2px solid black;
+	box-shadow: 5px 5px 5px black;
+	border-radius: 10px;
+}
